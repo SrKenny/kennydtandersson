@@ -3,12 +3,6 @@
  <h2 align="center"> My name is Kennydt and my nickname is "SrKenny" or "FoxySin"!</h2>
  <img src="https://tenor.com/pt-BR/view/luffy-cute-luffy-one-piece-one-piece-monkey-d-luffy-gif-6199004397503283892.gif" width="350" align="center">
 </div>
-
-<div>
-  <a href="https://github.com/SrKenny">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrKenny&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SrKenny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
    
 I'm currently searching more about myself and what i like in this tech world.
 My focus is in 2 things now:
@@ -22,5 +16,9 @@ My focus is in 2 things now:
 </div>
 
 ##
- 
+<div>
+  <a href="https://github.com/SrKenny">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrKenny&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SrKenny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
