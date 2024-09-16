@@ -4,7 +4,7 @@
  <img src="https://tenor.com/pt-BR/view/luffy-cute-luffy-one-piece-one-piece-monkey-d-luffy-gif-6199004397503283892.gif" width="350" align="center">
 </div>
  
- ![Snake animation](https://github.com/SrKenny/SrKenny/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/SrKenny/blob/output/github-contribution-grid-snake.svg)
  
  <div>
   <a href="https://github.com/SrKenny">
