@@ -1,9 +1,9 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Kennydt and my nickname is "SrKenny" or "FoxySin"!
-
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/tuCFp8rod0x3O" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/luffy-tuCFp8rod0x3O">via GIPHY</a></p>
-
+<h1 align="center"> 👋Hi. Welcome to my Github profile </h1>
+<div align="center">
+ <h2 align="center"> My name is Kennydt and my nickname is "SrKenny" or "FoxySin"!</h2>
+ <img src="https://tenor.com/pt-BR/view/luffy-cute-luffy-one-piece-one-piece-monkey-d-luffy-gif-6199004397503283892.gif" width="350" align="center">
+</div>
+ 
  ![Snake animation](https://github.com/SrKenny/SrKenny/blob/output/github-contribution-grid-snake.svg)
  
  <div>
@@ -18,9 +18,11 @@ My focus is in 2 things now:
   - 🎮 Learning how to make games because i just love games.
    
 ## Estou aprendendo
- - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" width="40" height="40"/> for Games
- - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="40" height="40"/> for IA   
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="60" height="60"/> 
+</div>
 
-
-I just love learning and discover new things!
+##
+ 
 
