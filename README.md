@@ -7,7 +7,7 @@ My focus is in 2 things now:
   - 🎮 Learning how to make games because i just love games.
    
 ## Estou aprendendo
- - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-plain-wordmark.svg" width="40" height="40"/> for Games
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" width="40" height="40"/> for Games
  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="40" height="40"/> for IA   
 
 
