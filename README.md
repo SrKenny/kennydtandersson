@@ -22,3 +22,4 @@ My focus is in 2 things now:
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SrKenny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 500/>
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/SrKenny/SrKenny/output/github-contribution-grid-snake-dark.svg)
