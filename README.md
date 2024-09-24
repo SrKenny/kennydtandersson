@@ -15,11 +15,13 @@ My focus is in 2 things now:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="60" height="60"/> 
 </div>
 
-## ## GitHub Stats
+## GitHub Stats
 <div>
   <a href="https://github.com/SrKenny">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrKenny&layout=compact&langs_count=7&theme=dracula" width="500"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SrKenny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 500/>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=SrKenny&show_icons=true&theme=dracula">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SrKenny&layout=compact&theme=dracula" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=SrKenny&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=SrKenny&theme=dracula" />
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/SrKenny/SrKenny/output/github-contribution-grid-snake-dark.svg)
