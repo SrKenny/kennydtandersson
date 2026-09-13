@@ -30,11 +30,6 @@ A begginner Dev currently exploring my path and discovering what I love most in 
    </tr>
  </table>
  
- <p align="left">
-  <br />
-  <img width="430px" src="https://github-stats-extended.vercel.app/api/pin?username=SrKenny&repo=SrKenny%2Fjarvis-fastapi-ia&theme=tokyonight" />
-</p>
-
 <p align="left">
   <img width="835px" src="https://raw.githubusercontent.com/SrKenny/SrKenny/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
